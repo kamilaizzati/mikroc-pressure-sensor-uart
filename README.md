@@ -1,11 +1,9 @@
 # mikroC Pressure Sensor UART Project
 
 ## Project Overview
-This repository contains an embedded systems project for pressure measurement using the Pressure 8 Click board from MikroElektronika.  
-The project is developed in C using mikroC PRO for MCU, utilizes mikroSDK libraries, and communicates sensor data via UART.
+This repository contains an embedded systems project for pressure measurement using the Pressure 8 Click board from MikroElektronika.  The project is developed in C using mikroC PRO for MCU, utilizes mikroSDK libraries, and communicates sensor data via UART.
 
 This project is intended as an educational and portfolio demonstration of pressure sensor interfacing using mikroC and mikroSDK.  It focuses on sensor communication and data transmission rather than product-level optimization or calibration.
----
 
 ## Hardware Used
 - Pressure 8 Click (MikroElektronika)  
